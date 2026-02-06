@@ -1,0 +1,25 @@
+### 🚀 Prompt para o Lovable
+
+"Atue como um Engenheiro de Software Full Stack sênior. Crie uma Single Page Application (SPA) em React com Tailwind CSS chamada 'Sophia - Finanças com Sabedoria'.
+
+O design deve ser minimalista e sofisticado, utilizando uma paleta de cores 'Deep Ocean Blue' (#0f172a) para o fundo, 'Classic Gold' (#ca8a04) para destaques e 'Soft White' para textos, evocando um ambiente de calma e sabedoria.
+
+**Estrutura da Interface:**
+
+1. **Layout Principal:** Uma sidebar fina à esquerda para navegação (Dashboard, Extrato, Metas) e uma área central de conteúdo.
+2. **Dashboard de Sabedoria (Topo):** Três cards principais: 'Saldo Disponível', 'Economia do Mês' e um 'Termômetro de Tranquilidade' (uma barra de progresso visual).
+3. **Interface de Chat (Peça Central):** Um feed de conversa elegante no estilo iMessage/WhatsApp.
+* O campo de input deve ter um ícone de microfone e um de envio.
+* Implemente uma lógica de simulação: quando eu digitar algo como 'Gastei 50 reais com jantar', o app deve extrair o valor (50) e a categoria (Alimentação), atualizar o saldo e mostrar uma resposta da Sophia: 'Entendido! Registrei seu gasto. Lembre-se: o equilíbrio é a chave da virtude.'
+
+
+
+**Funcionalidades Técnicas:**
+
+* **Gerenciamento de Estado:** Use React Hooks (useState, useEffect) para manter o saldo e a lista de transações atualizados dinamicamente.
+* **Categorização Automática:** Crie uma função simples que mapeia palavras-chave (mercado, jantar, ônibus, curso) para categorias (Essencial, Lazer, Investimento).
+* **Persistência Simples:** Utilize LocalStorage para que os dados não sumam ao atualizar a página.
+* **Design Universal:** Garanta que os botões tenham estados de hover claros, fontes com tamanho mínimo de 16px e alto contraste para acessibilidade.
+
+**Tom de Voz do App:**
+Socrático e encorajador. O app não deve julgar o gasto, mas sim convidar à reflexão."
