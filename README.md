@@ -45,6 +45,9 @@ Criar um assistente financeiro que utiliza **linguagem natural** para que o usu�
 Acesse o protótipo funcional gerado:
 👉 **[https://wisdom-flow-chat.lovable.app]**
 
+Acesse o docunento com prints de tela:
+👉 [https://docs.google.com/document/d/19HYrMKizQtuZkCPBoptbp76Cm2rddz7G-amkWAjqJRc/edit?usp=sharing]
+
 ### **Recursos Implementados:**
 
 * **Assistente Conversacional:** Engine de chat preparada para receber inputs de gastos.
