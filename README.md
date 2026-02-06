@@ -47,6 +47,7 @@ Acesse o protótipo funcional gerado:
 
 Acesse o docunento com prints de tela:
 👉 [https://docs.google.com/document/d/19HYrMKizQtuZkCPBoptbp76Cm2rddz7G-amkWAjqJRc/edit?usp=sharing]
+👉 [https://github.com/dcsmcom/dio-lab-vibe-coding-app-financas/blob/main/dio-lab-vibe-coding-app-financas.pdf]
 
 ### **Recursos Implementados:**
 
