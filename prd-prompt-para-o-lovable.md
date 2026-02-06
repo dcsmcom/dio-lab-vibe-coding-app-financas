@@ -1,4 +1,4 @@
-### 🚀 Prompt para o Lovable
+### 🚀 Prompt para o Lovable:
 
 "Atue como um Engenheiro de Software Full Stack sênior. Crie uma Single Page Application (SPA) em React com Tailwind CSS chamada 'Sophia - Finanças com Sabedoria'.
 
